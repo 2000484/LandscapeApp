@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<settings>
+  <setting id="useImperial" type="boolean" label="Use imperial units" defaultValue="false" />
+  <setting id="showSteps" type="boolean" label="Show steps" defaultValue="true" />
+  <setting id="showArea" type="boolean" label="Show area" defaultValue="true" />
+  <setting id="hapticsEnabled" type="boolean" label="Haptics" defaultValue="true" />
+  <setting id="autoPauseEnabled" type="boolean" label="Auto-pause" defaultValue="true" />
+  <setting id="showCalories" type="boolean" label="Show calories" defaultValue="true" />
+  <setting id="enableCostTracking" type="boolean" label="Track costs" defaultValue="false" />
+  <setting id="mowerWidth" type="numeric" label="Mower width (m)" defaultValue="0.5" min="0.3" max="2.0" step="0.1" />
+  <setting id="autoPauseSpeed" type="numeric" label="Auto-pause speed (m/s)" defaultValue="0.5" min="0.1" max="3.0" step="0.1" />
+  <setting id="hourlyRate" type="numeric" label="Hourly rate ($)" defaultValue="50.0" min="0.0" max="500.0" step="10.0" />
+</settings>

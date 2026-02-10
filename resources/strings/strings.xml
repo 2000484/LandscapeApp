@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<resources>
+  <string id="AppName">Landscaping</string>
+  <string id="CaloriesBurned">Calories Burned</string>
+  <string id="CostEstimate">Est. Earnings</string>
+</resources>
