@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="1">
   <iq:application
-      id="com.example.landscaping"
+      id="com.example.landscaping.vivoactive5app"
       name="@Strings.AppName"
       type="activity"
       entry="LandscapingApp"
