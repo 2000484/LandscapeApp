@@ -3,7 +3,7 @@
   <iq:application
       id="com.example.landscaping.vivoactive5app"
       name="@Strings.AppName"
-      type="activity"
+      type="watch-app"
       entry="LandscapingApp"
       launcherIcon="@Drawables.LauncherIcon">
     <iq:products>
