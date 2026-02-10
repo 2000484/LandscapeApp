@@ -12,7 +12,6 @@
     <iq:permissions>
       <iq:uses-permission id="Positioning" />
       <iq:uses-permission id="Fit" />
-      <iq:uses-permission id="ActivityRecording" />
     </iq:permissions>
   </iq:application>
 </iq:manifest>
